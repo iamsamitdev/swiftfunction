@@ -60,6 +60,8 @@ func newPostion(moveRight test:Bool,xPosition:Int)->Int{
 var posittion = newPostion(moveRight: true, xPosition: 15)
 print("ตำแหน่งปัจจุบัน \(posittion)")
 
+var bookname = "Swift Book Programming"
+
 
 
 
